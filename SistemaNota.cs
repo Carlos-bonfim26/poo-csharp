@@ -11,26 +11,21 @@ namespace primeirosPassosPoo
         public static void Main(string[] args)
         {
             int escolha, avaliacoes;
-            bool proseguir = false;
+            bool proseguir;
             
             do {
                 Console.WriteLine("você irá usar 1 - média áritimética ou 2 - Média Ponderada");
                 escolha = Convert.ToInt32(Console.ReadLine());
-                if(escolha == 1 || escolha == 2)
-                {
-                    proseguir = true;
-                }
+                proseguir = escolha == 1 || escolha == 2 ? true : false;
 
             } while (!proseguir);
+            Console.WriteLine("digite a quantidade de avaliações feitas para compor a nota:");
+            avaliacoes = Convert.ToInt32(Console.ReadLine());
             switch (escolha) {
                 case 1:
-                    Console.WriteLine("digite a quantidade de avaliações feitas para compor a nota:");
-                     avaliacoes = Convert.ToInt32(Console.ReadLine());
                     MediaAritimetica(avaliacoes);
                     break;
                 case 2:
-                    Console.WriteLine("digite a quantidade de avaliações feitas para compor a nota:");
-                     avaliacoes = Convert.ToInt32(Console.ReadLine());
                     MediaPonderada(avaliacoes);
                     break;
                 default:

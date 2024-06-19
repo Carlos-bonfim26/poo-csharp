@@ -12,3 +12,4 @@ C:\Users\Aluno\source\repos\primeirosPassosPoo\primeirosPassosPoo\obj\Debug\net8
 C:\Users\Aluno\source\repos\primeirosPassosPoo\primeirosPassosPoo\obj\Debug\net8.0\primeirosPassosPoo.pdb
 C:\Users\Aluno\source\repos\primeirosPassosPoo\primeirosPassosPoo\obj\Debug\net8.0\primeirosPassosPoo.genruntimeconfig.cache
 C:\Users\Aluno\source\repos\primeirosPassosPoo\primeirosPassosPoo\obj\Debug\net8.0\ref\primeirosPassosPoo.dll
+C:\Users\Aluno\source\repos\primeirosPassosPoo\primeirosPassosPoo\obj\Debug\net8.0\primeirosPassosPoo.sourcelink.json
