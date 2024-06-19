@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\primeirosPassosPoo\primeirosPassosPoo\bin\Debug\net8.0\primeirosPassosPoo.exe
+C:\Users\Aluno\source\repos\primeirosPassosPoo\primeirosPassosPoo\bin\Debug\net8.0\primeirosPassosPoo.deps.json
+C:\Users\Aluno\source\repos\primeirosPassosPoo\primeirosPassosPoo\bin\Debug\net8.0\primeirosPassosPoo.runtimeconfig.json
+C:\Users\Aluno\source\repos\primeirosPassosPoo\primeirosPassosPoo\bin\Debug\net8.0\primeirosPassosPoo.dll
+C:\Users\Aluno\source\repos\primeirosPassosPoo\primeirosPassosPoo\bin\Debug\net8.0\primeirosPassosPoo.pdb
+C:\Users\Aluno\source\repos\primeirosPassosPoo\primeirosPassosPoo\obj\Debug\net8.0\primeirosPassosPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\primeirosPassosPoo\primeirosPassosPoo\obj\Debug\net8.0\primeirosPassosPoo.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\primeirosPassosPoo\primeirosPassosPoo\obj\Debug\net8.0\primeirosPassosPoo.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\primeirosPassosPoo\primeirosPassosPoo\obj\Debug\net8.0\primeirosPassosPoo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\primeirosPassosPoo\primeirosPassosPoo\obj\Debug\net8.0\primeirosPassosPoo.dll
+C:\Users\Aluno\source\repos\primeirosPassosPoo\primeirosPassosPoo\obj\Debug\net8.0\refint\primeirosPassosPoo.dll
+C:\Users\Aluno\source\repos\primeirosPassosPoo\primeirosPassosPoo\obj\Debug\net8.0\primeirosPassosPoo.pdb
+C:\Users\Aluno\source\repos\primeirosPassosPoo\primeirosPassosPoo\obj\Debug\net8.0\primeirosPassosPoo.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\primeirosPassosPoo\primeirosPassosPoo\obj\Debug\net8.0\ref\primeirosPassosPoo.dll
